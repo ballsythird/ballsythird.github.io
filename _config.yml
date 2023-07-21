@@ -19,8 +19,8 @@ minimal_mistakes_skin    : "mint"
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : "Jiahao Chen"
-description              : "Jiahao Chen's blog."
+name                     : "Shubh Kumar"
+description              : "Shubh Kumar's blog."
 url                      : #"https://horychen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,14 +95,11 @@ analytics:
 # Site Author
 author:
   name             : "Shubh Kumar"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CSE'24 IIT Bombay"
   location         : "India"
   email            : "shubhk5796@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:shubhk5796@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thevaliantthird"
