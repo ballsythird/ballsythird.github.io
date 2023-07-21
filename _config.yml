@@ -94,38 +94,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiahao Chen"
+  name             : "Shubh Kumar"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. from Zhejiang University."
-  location         : "Singapore/China"
-  email            : "horychen@qq.com"
+  bio              : "CSE'24 IIT Bombay"
+  location         : "India"
+  email            : "shubhk5796@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:jiahao.chen@wisc.edu
-    - label: "Bilibili"
-      icon: "fab fa-fw fa-bilibili-square"
-      url: "https://space.bilibili.com/7132537"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?hl=en&user=A13oCMQAAAAJ"
-    - label: "My ORCID"
-      icon: "fab fa-fw fa-orcid-square"
-      url: "http://orcid.org/0000-0002-8927-5646" # "https://twitter.com/horychen"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: mailto:shubhk5796@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/horychen"
+      url: "https://github.com/thevaliantthird"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/horychen8408"
-    # - label: "Linkedin"
-    #   icon: "fab fa-fw fa-linkedin-square"
-    # - label: "My ORCID"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "http://orcid.org/0000-0002-8927-5646"
+      url: "https://instagram.com/shubhk5796"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/shubh-kumar-526052b5/"
+
 
 # Site Footer
 footer:
@@ -138,12 +125,6 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
