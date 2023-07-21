@@ -2,8 +2,6 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Publication"
-    url: /publication/
   - title: "About"
     url: /about/
   # - title: "External Link"
